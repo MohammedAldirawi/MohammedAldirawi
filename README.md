@@ -60,7 +60,7 @@ Here are some ideas to get you started: -->
   <a href="https://stackoverflow.com/users/17492597/mohammed-aldirawi" target="_blank">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-f2740d?style=for-the-badge&logo=stackoverflow&logoColor=white"  height="40px"/></a> 
   <a href="https://dev.to/mohtareq" target="_blank">
-    <img alt="Dev" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="40px"/>/>
+    <img alt="Dev" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="40px"/>
   </a> 
 </p>
 
