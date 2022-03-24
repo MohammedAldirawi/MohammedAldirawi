@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1q20tC8bOBdjz0OAOQa5plExKhP-M-7mO/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1CUEhGREGb1sFa9IaCH7EL91NynHdh29K/view?usp=sharing)**
 
 - 🌱 I’m currently Front-end Web Developer.
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started: -->
 </p>
 
 
-## What if you like my work? 🤩<
+## What if you like my work? 🤩
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
