@@ -17,15 +17,13 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1CUEhGREGb1sFa9IaCH7EL91NynHdh29K/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/10SV2a6IdcAIwUoxS_EUgtmseQYsubOFZ/view?usp=sharing)**
 
 - 🌱 I’m currently Front-end Web Developer.
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working as `Freelancer`.
 
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m working on improving my skills in `Competitive Programming`
+- 🤔 I’m working on improving my skills in `Web Development`
 
 - 💬 Ask me about anything :) 
 
