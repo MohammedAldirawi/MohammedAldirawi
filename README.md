@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1yLDvaP2TiaHKi5BJcoT97SlXkdYeFEdg/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1KVo5y7NqIw73XI2WwwvUvSk4XkVsIoBG/view?usp=sharing)**
 
 - 🌱 I’m currently Front-end Web Developer.
 
