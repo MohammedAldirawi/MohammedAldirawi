@@ -19,9 +19,9 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1vIEp2G4zlP44JZumRq7Jw7FZjACyrzAJ/view?usp=sharing)**
 
-- 🌱 I’m currently Front-end Web Developer.
+- 🌱 I’m currently `MERN Stuck`.
 
-- 🔭 I’m currently working as `Freelancer`.
+- 🔭 I’m currently working as `Something Interesting`.
 
 - 🤔 I’m working on improving my skills in `Web Development`
 
